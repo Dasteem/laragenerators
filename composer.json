@@ -3,15 +3,11 @@
   "description": "Package for creating adminpanel in Laravel 5",
   "authors": [
     {
-      "name": "ModestasV",
-      "email": "info@modestasv.lt"
-    },
-    {
-      "name": "PovilasKorop",
-      "email": "povilas@webcoderpro.com"
+      "name": "Nedal",
+      "email": "nedal.elghamry@gmail.com"
     }
   ],
-  "version": "0.2.11",
+  "version": "0.1",
   "require": {
     "illuminate/html": "5.0.*@dev"
   },
